@@ -1,0 +1,10 @@
+body {
+  background-color: #f6f5f5;
+}
+.img-fluid {
+  width: 70px;
+  height: 70px;
+}
+.card-body {
+  text-align: center;
+}
